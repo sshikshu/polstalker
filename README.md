@@ -1,6 +1,8 @@
-#Twitter data Reader
-Twitter data analyzer.
+#Polstalker
+Polstalker is a collection of tools to fetch and analyze data from social networks such as twitter.
 
+##polstalker-twitter
+Polstalker tool for twitter
 
 ###Usage
   --count (default 100): number of tweets to analyze
